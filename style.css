@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+}
+h1 {
+    font-family: 'Metal Mania', cursive;
+    font-size: 156px; 
+    color: aqua; 
+}
+p {
+    font-family: 'Piedra', cursive;
+    font-size: 30px;
+    color: black;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+img {
+    width: 70%;
+}
